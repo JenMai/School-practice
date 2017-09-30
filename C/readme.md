@@ -40,8 +40,8 @@ Gives the approximation of pi according to input.
 
 ## 10 - Interval
 
-Gives the closest value to x(0) for a given function using a dichotomic algorithm.
+Gives the closest value to x(0) for a given function and interval using a dichotomic algorithm.
 
 ## 10 - Approximation of a (or roots)
 
-Gives the square root, cube root and n root of a.
+Gives the square root, cube root and n root of a (user input).
