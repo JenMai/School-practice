@@ -47,6 +47,8 @@ int main()
 		{
 			if (a % b == 0)
 				printf("%d / %d = %d\n", a, b, a / b);
+			else if (b == 0)
+				printf("Can't divide by 0!\n");
 			else
 				printf("%d / %d = %.2f\n", a, b, (float)a / b);
 	    }
