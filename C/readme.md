@@ -34,4 +34,14 @@ n * n = n²
 
 Gets the factorial of n, as well as the binomial coefficient.
 
+## 9 - Approximation of pi
 
+Gives the approximation of pi according to input.
+
+## 10 - Interval
+
+Gives the closest value to x(0) for a given function using a dichotomic algorithm.
+
+## 10 - Approximation of a (or roots)
+
+Gives the square root, cube root and n root of a.
