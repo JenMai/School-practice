@@ -1,4 +1,4 @@
-# C
+# Conditions, loops and maths
 
 (Standard: C89)
 
