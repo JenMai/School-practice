@@ -43,7 +43,7 @@ char* concat(char *s1, char *s2)
 	lenS2 = strlen(s2);
 
 	s1 = (char*)realloc(s1, sizeof(char)*(lenS2+lenS1+2)); /* dynamically alloc according to strings
-														      +2 for space char and \0 */
+								  +2 for space char and \0 */
 	s1[lenS1] = ' ';                                       /* space between concatenation
 	                                                         (thus lenS1+1 within for loop) */
 	for (i = lenS1+1, j = 0; j <= lenS2-1; i++, j++)
